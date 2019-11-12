@@ -135,6 +135,18 @@ app.post('/api/changeowner/', async function (req, res) {
         var carno = req.body.carno;
         var owner = req.body.owner;
 
+	    
+	    
+	
+	    
+	    
+	    
+	 
+	    
+	    
+	    
+	    
+
 
         // Disconnect from the gateway.
         await gateway.disconnect();
